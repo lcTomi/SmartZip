@@ -1,0 +1,4 @@
+Hola! Somos Alvear Programa. 
+Alguna vez has visto a esas personas que se pasan el día de trabajo sepultados en pilas y pilas de papeles? Bueno, nuestro objetivo con este proyecto, es optimizar el trabajo de esas personas, especificamente de los nutricionistas de los hospitales. Con el plus de estar contibuyendo al cuidado del medio ambiente evitando el uso de papel.
+Este sistema de gestión web, con una interfaz super amigable, les permitirá ser mas eficaces y ágiles en sus tareas, ya que se podrá acceder al historial de los pacientes, al stock de alimentos que posee el hospital y así poder tener un  control y gestión de las dietas de cada paciente. Y todo esto con la ventaja de poder ingresar a la plataforma de forma remota desde cualquier lugar y desde cualquier dispositivo.
+Para conocer más sobre nuestro proyecto, podés ingresar a www.alvear-programa.com
